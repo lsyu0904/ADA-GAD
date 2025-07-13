@@ -11,8 +11,7 @@
 
 ## 4. 运行方法
 以 reddit 数据集为例：
-```bash
-```python main.py --use_cfg --seeds 0 --dataset reddit --device 0
+python main.py --use_cfg --seeds 0 --dataset reddit --device 0
 
 ## 5. 主要性能指标
 AUROC（ROC曲线下的面积）
