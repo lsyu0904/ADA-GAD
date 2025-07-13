@@ -1,0 +1,9 @@
+prefix=d:/PythonProject/0710-gad1/ada-gad-env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.5.1 

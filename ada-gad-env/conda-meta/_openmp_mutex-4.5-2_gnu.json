@@ -1,0 +1,35 @@
+{
+  "build": "2_gnu",
+  "build_number": 8,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "openmp_impl 9999",
+    "msys2-conda-epoch <0.0a0"
+  ],
+  "depends": [
+    "libwinpthread >=12.0.0.r2.ggc561118da",
+    "libgomp >=7.5.0"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\_openmp_mutex-4.5-2_gnu",
+  "files": [],
+  "fn": "_openmp_mutex-4.5-2_gnu.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\_openmp_mutex-4.5-2_gnu",
+    "type": 1
+  },
+  "md5": "37e16618af5c4851a3f3d66dd0e11141",
+  "name": "_openmp_mutex",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\_openmp_mutex-4.5-2_gnu.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1a62cd1f215fe0902e7004089693a78347a30ad687781dfda2289cab000e652d",
+  "size": 49468,
+  "subdir": "win-64",
+  "timestamp": 1718213032000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/_openmp_mutex-4.5-2_gnu.conda",
+  "version": "4.5"
+}

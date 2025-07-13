@@ -1,0 +1,44 @@
+{
+  "build": "h57928b3_9",
+  "build_number": 9,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "pthreads-win32 <0.0a0",
+    "msys2-conda-epoch <0.0a0"
+  ],
+  "depends": [
+    "ucrt"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9",
+  "files": [
+    "Library/bin/libwinpthread-1.dll"
+  ],
+  "fn": "libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9.conda",
+  "license": "MIT AND BSD-3-Clause-Clear",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9",
+    "type": 1
+  },
+  "md5": "08bfa5da6e242025304b206d152479ef",
+  "name": "libwinpthread",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libwinpthread-1.dll",
+        "path_type": "hardlink",
+        "sha256": "6a8a6c5f9a341e511d61d7f9d308864ec199a1a0865d4863780958295bd3fd22",
+        "sha256_in_prefix": "6a8a6c5f9a341e511d61d7f9d308864ec199a1a0865d4863780958295bd3fd22",
+        "size_in_bytes": 62126
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "373f2973b8a358528b22be5e8d84322c165b4c5577d24d94fd67ad1bb0a0f261",
+  "size": 35794,
+  "subdir": "win-64",
+  "timestamp": 1737099561000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9.conda",
+  "version": "12.0.0.r4.gg4f2fc60ca"
+}

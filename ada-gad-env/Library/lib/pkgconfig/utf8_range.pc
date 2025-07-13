@@ -1,0 +1,11 @@
+prefix=d:/PythonProject/0710-gad1/ada-gad-env/Library
+exec_prefix=d:/PythonProject/0710-gad1/ada-gad-env/Library
+libdir=d:/PythonProject/0710-gad1/ada-gad-env/Library/lib
+includedir=d:/PythonProject/0710-gad1/ada-gad-env/Library/include
+
+Name: UTF8 Range
+Description: Google's UTF8 Library
+Version: 1.0
+Requires: absl_strings
+Libs: -L${libdir} -lutf8_validity -lutf8_range 
+Cflags: -I${includedir}

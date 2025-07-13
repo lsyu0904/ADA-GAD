@@ -1,0 +1,129 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7",
+    "typing-extensions >=3.6.5"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\async-timeout-4.0.3-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/INSTALLER",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/LICENSE",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/METADATA",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/RECORD",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/REQUESTED",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/WHEEL",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/direct_url.json",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/top_level.txt",
+    "Lib/site-packages/async_timeout-4.0.3.dist-info/zip-safe",
+    "Lib/site-packages/async_timeout/__init__.py",
+    "Lib/site-packages/async_timeout/py.typed",
+    "Lib/site-packages/async_timeout/__pycache__/__init__.cpython-38.pyc"
+  ],
+  "fn": "async-timeout-4.0.3-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\async-timeout-4.0.3-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "3ce482ec3066e6d809dbbb1d1679f215",
+  "name": "async-timeout",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\async-timeout-4.0.3-pyhd8ed1ab_0",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e18d7bb8f513e2c46bb585c94b585bd30720dd3ccb21ddb0786f72d16658f92c",
+        "sha256_in_prefix": "e18d7bb8f513e2c46bb585c94b585bd30720dd3ccb21ddb0786f72d16658f92c",
+        "size_in_bytes": 568
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "59055c9c32174369ed79b726faf62384d2e0fd531e4d6c35dff45e4fe537e89e",
+        "sha256_in_prefix": "59055c9c32174369ed79b726faf62384d2e0fd531e4d6c35dff45e4fe537e89e",
+        "size_in_bytes": 4209
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e36458746828f7b00f4b0bae75d4fed45cb105fed58076815ffb1edbd55a5eb5",
+        "sha256_in_prefix": "e36458746828f7b00f4b0bae75d4fed45cb105fed58076815ffb1edbd55a5eb5",
+        "size_in_bytes": 1018
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "e6c5174a0f5ee1b8bb9532ce1dc9ba4046303b94c81754cd6d34951558dc25c7",
+        "sha256_in_prefix": "e6c5174a0f5ee1b8bb9532ce1dc9ba4046303b94c81754cd6d34951558dc25c7",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "3105e1a1257ef352ca32b791d47920ca86140dd9d35afbc3f61f607e4f875237",
+        "sha256_in_prefix": "3105e1a1257ef352ca32b791d47920ca86140dd9d35afbc3f61f607e4f875237",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f683387bb4f0abc883ffbfd0dcccf413a18f201eaf26f445a3e501c1442d0435",
+        "sha256_in_prefix": "f683387bb4f0abc883ffbfd0dcccf413a18f201eaf26f445a3e501c1442d0435",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/async_timeout-4.0.3.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/async_timeout/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "03454ea83190ddc08f169d0d6492886f1fd544fd58db13ed40e65e6d521407cf",
+        "sha256_in_prefix": "03454ea83190ddc08f169d0d6492886f1fd544fd58db13ed40e65e6d521407cf",
+        "size_in_bytes": 7242
+      },
+      {
+        "_path": "site-packages/async_timeout/py.typed",
+        "path_type": "hardlink",
+        "sha256": "b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d",
+        "sha256_in_prefix": "b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bd8b698e7f037a9c6107216646f1191f4f7a7fc6da6c34d1a6d4c211bcca8979",
+  "size": 11352,
+  "subdir": "noarch",
+  "timestamp": 1691763717000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/async-timeout-4.0.3-pyhd8ed1ab_0.conda",
+  "version": "4.0.3"
+}

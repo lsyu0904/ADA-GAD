@@ -1,0 +1,223 @@
+{
+  "build": "h2466b09_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\libuv-1.51.0-h2466b09_0",
+  "files": [
+    "Library/bin/uv.dll",
+    "Library/include/uv.h",
+    "Library/include/uv/aix.h",
+    "Library/include/uv/bsd.h",
+    "Library/include/uv/darwin.h",
+    "Library/include/uv/errno.h",
+    "Library/include/uv/linux.h",
+    "Library/include/uv/os390.h",
+    "Library/include/uv/posix.h",
+    "Library/include/uv/sunos.h",
+    "Library/include/uv/threadpool.h",
+    "Library/include/uv/tree.h",
+    "Library/include/uv/unix.h",
+    "Library/include/uv/version.h",
+    "Library/include/uv/win.h",
+    "Library/lib/cmake/libuv/libuvConfig-release.cmake",
+    "Library/lib/cmake/libuv/libuvConfig.cmake",
+    "Library/lib/libuv.lib",
+    "Library/lib/pkgconfig/libuv-static.pc",
+    "Library/lib/pkgconfig/libuv.pc",
+    "Library/lib/uv.lib",
+    "Library/share/doc/libuv/LICENSE",
+    "Library/share/doc/libuv/LICENSE-extra"
+  ],
+  "fn": "libuv-1.51.0-h2466b09_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\libuv-1.51.0-h2466b09_0",
+    "type": 1
+  },
+  "md5": "9756651456477241b0226fb0ee051c58",
+  "name": "libuv",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\libuv-1.51.0-h2466b09_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/uv.dll",
+        "path_type": "hardlink",
+        "sha256": "81d098c1ffa6ff9fb59ae22ec35df9383f3bb890523754985b606e0efaf4fd56",
+        "sha256_in_prefix": "81d098c1ffa6ff9fb59ae22ec35df9383f3bb890523754985b606e0efaf4fd56",
+        "size_in_bytes": 213504
+      },
+      {
+        "_path": "Library/include/uv.h",
+        "path_type": "hardlink",
+        "sha256": "fddec8c096616675b4578d85222663c8624dce3ee67f5be1c33ba83eb02a827c",
+        "sha256_in_prefix": "fddec8c096616675b4578d85222663c8624dce3ee67f5be1c33ba83eb02a827c",
+        "size_in_bytes": 72810
+      },
+      {
+        "_path": "Library/include/uv/aix.h",
+        "path_type": "hardlink",
+        "sha256": "bed77e4cf6c06f1224e681cbe607eff04713ca0c1e1f4a102e6a6565ee3f02aa",
+        "sha256_in_prefix": "bed77e4cf6c06f1224e681cbe607eff04713ca0c1e1f4a102e6a6565ee3f02aa",
+        "size_in_bytes": 1615
+      },
+      {
+        "_path": "Library/include/uv/bsd.h",
+        "path_type": "hardlink",
+        "sha256": "963533ff4b16f72a204a8c760896a857c54d0ac50570f1793e3bef1f2ae8b35f",
+        "sha256_in_prefix": "963533ff4b16f72a204a8c760896a857c54d0ac50570f1793e3bef1f2ae8b35f",
+        "size_in_bytes": 1641
+      },
+      {
+        "_path": "Library/include/uv/darwin.h",
+        "path_type": "hardlink",
+        "sha256": "222b6dd3ce67cfbb735b14b1662f065fc23570d6969acf463b39d946b7590d8c",
+        "sha256_in_prefix": "222b6dd3ce67cfbb735b14b1662f065fc23570d6969acf463b39d946b7590d8c",
+        "size_in_bytes": 3213
+      },
+      {
+        "_path": "Library/include/uv/errno.h",
+        "path_type": "hardlink",
+        "sha256": "4242edf790e4569ef349026ab4c6e31093334ee5fc02b16ed7a0d9fbacdffd16",
+        "sha256_in_prefix": "4242edf790e4569ef349026ab4c6e31093334ee5fc02b16ed7a0d9fbacdffd16",
+        "size_in_bytes": 11216
+      },
+      {
+        "_path": "Library/include/uv/linux.h",
+        "path_type": "hardlink",
+        "sha256": "adce0ed0821c8466a87a0a4c9e0df9ea7e4a4b24d099c7d7ed196f72a13f669d",
+        "sha256_in_prefix": "adce0ed0821c8466a87a0a4c9e0df9ea7e4a4b24d099c7d7ed196f72a13f669d",
+        "size_in_bytes": 1781
+      },
+      {
+        "_path": "Library/include/uv/os390.h",
+        "path_type": "hardlink",
+        "sha256": "98388ae32ce2c4390b82c3529539d2a476c44f590e960ed30a79f72b807ecd02",
+        "sha256_in_prefix": "98388ae32ce2c4390b82c3529539d2a476c44f590e960ed30a79f72b807ecd02",
+        "size_in_bytes": 1553
+      },
+      {
+        "_path": "Library/include/uv/posix.h",
+        "path_type": "hardlink",
+        "sha256": "e9d7218b34e6e89b7b412891b7e2aa8b3a561c5ce9714c1f4def6c8a8593a6a6",
+        "sha256_in_prefix": "e9d7218b34e6e89b7b412891b7e2aa8b3a561c5ce9714c1f4def6c8a8593a6a6",
+        "size_in_bytes": 1606
+      },
+      {
+        "_path": "Library/include/uv/sunos.h",
+        "path_type": "hardlink",
+        "sha256": "29d4b4ef48dc3c3ab32d75e0a85bcb80e084d42b32aae40d67fc1d882b93298a",
+        "sha256_in_prefix": "29d4b4ef48dc3c3ab32d75e0a85bcb80e084d42b32aae40d67fc1d882b93298a",
+        "size_in_bytes": 1985
+      },
+      {
+        "_path": "Library/include/uv/threadpool.h",
+        "path_type": "hardlink",
+        "sha256": "09ae41099af710289155be012df45c2fce04da6a02e813278b4558935e645938",
+        "sha256_in_prefix": "09ae41099af710289155be012df45c2fce04da6a02e813278b4558935e645938",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "Library/include/uv/tree.h",
+        "path_type": "hardlink",
+        "sha256": "34393c74082c71ddd5bd9ec4afe30ef03df7fa7bb64be5a50ae070cdfebb5c43",
+        "sha256_in_prefix": "34393c74082c71ddd5bd9ec4afe30ef03df7fa7bb64be5a50ae070cdfebb5c43",
+        "size_in_bytes": 36117
+      },
+      {
+        "_path": "Library/include/uv/unix.h",
+        "path_type": "hardlink",
+        "sha256": "a246095a1476d76631f5ec85be171aee8107eb0423007546ec91c58887c28f02",
+        "sha256_in_prefix": "a246095a1476d76631f5ec85be171aee8107eb0423007546ec91c58887c28f02",
+        "size_in_bytes": 20057
+      },
+      {
+        "_path": "Library/include/uv/version.h",
+        "path_type": "hardlink",
+        "sha256": "aef7fb55ffcece76db9cb7f87d0632e432369747f329679779616cd0721981da",
+        "sha256_in_prefix": "aef7fb55ffcece76db9cb7f87d0632e432369747f329679779616cd0721981da",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "Library/include/uv/win.h",
+        "path_type": "hardlink",
+        "sha256": "51b6bf729c4c3e66cd89e0b0b0d734998776e675fe0a5eda9db77b634eb83ef0",
+        "sha256_in_prefix": "51b6bf729c4c3e66cd89e0b0b0d734998776e675fe0a5eda9db77b634eb83ef0",
+        "size_in_bytes": 33836
+      },
+      {
+        "_path": "Library/lib/cmake/libuv/libuvConfig-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "e1fa2b5924be50fd3191bc71d5ac4bb2ac9b75a0e2f1e0ce18d86ad33bef176e",
+        "sha256_in_prefix": "e1fa2b5924be50fd3191bc71d5ac4bb2ac9b75a0e2f1e0ce18d86ad33bef176e",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "Library/lib/cmake/libuv/libuvConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "c068930d1c47fae2b3a87babda81895a28cccf5cf48229a712ae672bbd36a347",
+        "sha256_in_prefix": "c068930d1c47fae2b3a87babda81895a28cccf5cf48229a712ae672bbd36a347",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "Library/lib/libuv.lib",
+        "path_type": "hardlink",
+        "sha256": "a299fae03ddcf641520222f59cbeb7cefda916453beea02665a0660191a3a875",
+        "sha256_in_prefix": "a299fae03ddcf641520222f59cbeb7cefda916453beea02665a0660191a3a875",
+        "size_in_bytes": 841302
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libuv-static.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libuv_1748304474232/_h_env",
+        "sha256": "3e542a7da2a0dd145df32c96b8903d3665131fdd652e7ca8b81162a3062c4c3d",
+        "sha256_in_prefix": "2ccab7381c8914c27dfb04dd9ed22b8cbf8aaab4c435e3d7230241bc549cc0ea",
+        "size_in_bytes": 474
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libuv.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libuv_1748304474232/_h_env",
+        "sha256": "b40f1691107fe5a10663db4e3b67ffdc3a39622d2a9f462989ad148c2c608abd",
+        "sha256_in_prefix": "8df86771c41722ad6eb142b3df8cc2c1ed2563d4cfe50ef8ffcd658ce47e380c",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "Library/lib/uv.lib",
+        "path_type": "hardlink",
+        "sha256": "ba3a64e6294a9e0ac0a2c8e0adcc4bc15ce606bb5f3b849c881e9a5d8eb75e62",
+        "sha256_in_prefix": "ba3a64e6294a9e0ac0a2c8e0adcc4bc15ce606bb5f3b849c881e9a5d8eb75e62",
+        "size_in_bytes": 62964
+      },
+      {
+        "_path": "Library/share/doc/libuv/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "16de0c32b265cb7d46a6d3bd614f259dd4d693a5e26b3407b04aae8d73041f0c",
+        "sha256_in_prefix": "16de0c32b265cb7d46a6d3bd614f259dd4d693a5e26b3407b04aae8d73041f0c",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "Library/share/doc/libuv/LICENSE-extra",
+        "path_type": "hardlink",
+        "sha256": "262c44bd2cdba037e6d2a82fba15f5800d292bc993a6f5d6b6ea487744d02836",
+        "sha256_in_prefix": "262c44bd2cdba037e6d2a82fba15f5800d292bc993a6f5d6b6ea487744d02836",
+        "size_in_bytes": 1603
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b03ca3d0cfbf8b3911757411a10fbbaa7edae62bb81972ae44360e7ac347aac2",
+  "size": 293576,
+  "subdir": "win-64",
+  "timestamp": 1748305181000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libuv-1.51.0-h2466b09_0.conda",
+  "version": "1.51.0"
+}

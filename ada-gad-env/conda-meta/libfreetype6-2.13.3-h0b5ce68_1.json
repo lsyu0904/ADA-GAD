@@ -1,0 +1,47 @@
+{
+  "build": "h0b5ce68_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "freetype >=2.13.3"
+  ],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "libzlib >=1.3.1,<2.0a0",
+    "libpng >=1.6.47,<1.7.0a0"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\libfreetype6-2.13.3-h0b5ce68_1",
+  "files": [
+    "Library/bin/freetype.dll"
+  ],
+  "fn": "libfreetype6-2.13.3-h0b5ce68_1.conda",
+  "license": "GPL-2.0-only OR FTL",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\libfreetype6-2.13.3-h0b5ce68_1",
+    "type": 1
+  },
+  "md5": "a84b7d1a13060a9372bea961a8131dbc",
+  "name": "libfreetype6",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\libfreetype6-2.13.3-h0b5ce68_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/freetype.dll",
+        "path_type": "hardlink",
+        "sha256": "ae926c2e515fe8cb9008e8203b7febe562cc3bbfb1e37d0df2a1de4e622932e7",
+        "sha256_in_prefix": "ae926c2e515fe8cb9008e8203b7febe562cc3bbfb1e37d0df2a1de4e622932e7",
+        "size_in_bytes": 670208
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "61308653e7758ff36f80a60d598054168a1389ddfbac46d7864c415fafe18e69",
+  "size": 337007,
+  "subdir": "win-64",
+  "timestamp": 1745370226000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libfreetype6-2.13.3-h0b5ce68_1.conda",
+  "version": "2.13.3"
+}

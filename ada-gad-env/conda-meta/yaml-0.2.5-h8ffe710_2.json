@@ -1,0 +1,90 @@
+{
+  "build": "h8ffe710_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "D:\\TOOLS\\Anaconada3\\pkgs\\yaml-0.2.5-h8ffe710_2",
+  "files": [
+    "Library/bin/yaml.dll",
+    "Library/cmake/yamlConfig.cmake",
+    "Library/cmake/yamlConfigVersion.cmake",
+    "Library/cmake/yamlTargets-release.cmake",
+    "Library/cmake/yamlTargets.cmake",
+    "Library/include/yaml.h",
+    "Library/lib/yaml.lib"
+  ],
+  "fn": "yaml-0.2.5-h8ffe710_2.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\TOOLS\\Anaconada3\\pkgs\\yaml-0.2.5-h8ffe710_2",
+    "type": 1
+  },
+  "md5": "adbfb9f45d1004a26763652246a33764",
+  "name": "yaml",
+  "package_tarball_full_path": "D:\\TOOLS\\Anaconada3\\pkgs\\yaml-0.2.5-h8ffe710_2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/yaml.dll",
+        "path_type": "hardlink",
+        "sha256": "3afd03ff4ed8e1912f3255539439e75462131320cb273dad2ab62bd9abafd82a",
+        "sha256_in_prefix": "3afd03ff4ed8e1912f3255539439e75462131320cb273dad2ab62bd9abafd82a",
+        "size_in_bytes": 104448
+      },
+      {
+        "_path": "Library/cmake/yamlConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "1c33b7ca2f660860dd4193f1af08460affa7ecd307b000bfdfc6f5bbced3d0bc",
+        "sha256_in_prefix": "1c33b7ca2f660860dd4193f1af08460affa7ecd307b000bfdfc6f5bbced3d0bc",
+        "size_in_bytes": 983
+      },
+      {
+        "_path": "Library/cmake/yamlConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "8dcd8ddfa8a4da5fb15d0a32aaccb98420bb333e359a48ca5c9f717da533e57b",
+        "sha256_in_prefix": "8dcd8ddfa8a4da5fb15d0a32aaccb98420bb333e359a48ca5c9f717da533e57b",
+        "size_in_bytes": 2025
+      },
+      {
+        "_path": "Library/cmake/yamlTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "c795521565d184ced0f914d995c58dd604bc0accf64c8590c4f8db28575010e5",
+        "sha256_in_prefix": "c795521565d184ced0f914d995c58dd604bc0accf64c8590c4f8db28575010e5",
+        "size_in_bytes": 836
+      },
+      {
+        "_path": "Library/cmake/yamlTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "e9e806a13e170010fedcf54c57b6c1e0e614576201399b9d23467b31b5be7e51",
+        "sha256_in_prefix": "e9e806a13e170010fedcf54c57b6c1e0e614576201399b9d23467b31b5be7e51",
+        "size_in_bytes": 3298
+      },
+      {
+        "_path": "Library/include/yaml.h",
+        "path_type": "hardlink",
+        "sha256": "de39c9fc2b2c8584775e6d0dc0f13c8e778ceba47d419cff9d85465ca35d6954",
+        "sha256_in_prefix": "de39c9fc2b2c8584775e6d0dc0f13c8e778ceba47d419cff9d85465ca35d6954",
+        "size_in_bytes": 54439
+      },
+      {
+        "_path": "Library/lib/yaml.lib",
+        "path_type": "hardlink",
+        "sha256": "f991d63b73b15092a9afa52dc3f0ffaa24793c67478a8a6adf76d7e2b98dd780",
+        "sha256_in_prefix": "f991d63b73b15092a9afa52dc3f0ffaa24793c67478a8a6adf76d7e2b98dd780",
+        "size_in_bytes": 15316
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e2246383003acbad9682c7c63178e2e715ad0eb84f03a8df1fbfba455dfedc5",
+  "size": 63274,
+  "subdir": "win-64",
+  "timestamp": 1641347623000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/yaml-0.2.5-h8ffe710_2.tar.bz2",
+  "version": "0.2.5"
+}

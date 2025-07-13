@@ -1,0 +1,11 @@
+prefix=d:/PythonProject/0710-gad1/ada-gad-env/Library
+exec_prefix=${prefix}
+libdir=d:/PythonProject/0710-gad1/ada-gad-env/Library/lib
+includedir=d:/PythonProject/0710-gad1/ada-gad-env/Library/include
+
+Name: abseil_dll
+Description: Abseil DLL library
+URL: https://abseil.io/
+Version: 20240116
+Libs: -L${libdir} -labseil_dll 
+Cflags: -I${includedir}

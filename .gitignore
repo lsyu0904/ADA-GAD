@@ -1,0 +1,16 @@
+# 排除所有 .pt 和 .mat 数据文件
+/ADA-GAD/data/**/*.pt
+/ADA-GAD/data/**/*.mat
+
+# 排除虚拟环境中的大文件
+/ada-gad-env/Lib/site-packages/torch/lib/dnnl.lib
+/ada-gad-env/Lib/site-packages/torch/lib/torch_cpu.dll
+
+# 通用排除项
+*.pt
+*.mat
+*.bin
+*.pth
+*.zip
+*.tar
+*.gz
