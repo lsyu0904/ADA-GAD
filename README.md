@@ -13,7 +13,6 @@
 
 以 `reddit` 数据集为例，运行以下命令：
 
-```bash
 python main.py --use_cfg --seeds 0 --dataset reddit --device 0
 
 ## 5. 主要性能指标
