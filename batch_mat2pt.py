@@ -14,7 +14,7 @@ for mat_path in mat_files:
 
     print(f'正在处理 {mat_path} ...')
     mat = scipy.io.loadmat(mat_path)
-    # adj = mat['Network']  # 如果后续只用edge_index，可直接用稀疏格式
+    # adj = mat['Network']  
     features = mat['Attributes']
     labels = mat['Label']
 
