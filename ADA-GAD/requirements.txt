@@ -1,9 +1,0 @@
-torch
-torch-geometric
-scipy
-scikit-learn
-tqdm
-pyyaml
-tensorboardX
-pandas
-# 其他依赖可根据实际需要补充
